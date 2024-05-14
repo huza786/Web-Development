@@ -1,0 +1,5 @@
+img{height: 200px;width: 200px;}
+.color-title[id="red"]{color: red;}
+.color-title[id="orange"]{color: orange;}
+.color-title[id="green"]{color: green;}
+.color-title[id="yellow"]{color: yellow; border: 2px;background-color: black;width: fit-content;}

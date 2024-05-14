@@ -1,0 +1,14 @@
+.red_image{
+   
+    color: red;
+
+}
+div{background-color: red;
+width: 200px
+;
+overflow: visible;
+height: 200px;
+
+}
+.img{height: 200px;width: 200px;  float: right;}
+.red_text{color: red;font-family: Georgia, 'Times New Roman', Times, serif;font-size: 34px;}
